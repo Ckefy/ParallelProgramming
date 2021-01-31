@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MTStressTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-24T20:58:55" hostname="DESKTOP-2PP8FA9" time="12.691">
+  <properties/>
+  <testcase name="testStress" classname="MTStressTest" time="12.691"/>
+  <system-out><![CDATA[Phase # 1 - done      4,351 ops (warm up)
+Phase # 2 - done      5,919 ops (warm up)
+Phase # 3 - done      3,961 ops (warm up)
+Phase # 4 - done      3,909 ops (warm up)
+Phase # 5 - done      2,854 ops (warm up)
+Phase # 6 - done      4,162 ops (measure)
+Phase # 7 - done      6,141 ops (measure)
+Phase # 8 - done    106,202 ops (measure)
+Phase # 9 - done     16,057 ops (measure)
+Phase #10 - done      3,750 ops (measure)
+Average ops per phase: 27,262 +- 44,412
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
